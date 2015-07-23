@@ -1,3 +1,3 @@
-# FF-D_LOGO
+# FF-D-LOGO
 
 Freifunk Düsseldorf Logos
