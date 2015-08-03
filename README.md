@@ -1,3 +1,3 @@
-# FF-D-LOGO
+#ffddorf-grafik
 
-Freifunk Düsseldorf Logos
+Freifunk Düsseldorf Grafiken
